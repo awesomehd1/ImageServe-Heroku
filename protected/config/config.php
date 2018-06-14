@@ -23,5 +23,5 @@ define('TWITTER_CARDS', false);
 define('IMAGESERVE_DIR', '');
 define('TWITTER_HANDLE', '@aerouk_');
 
-define('APP_NAME', 'ImageServe-Heroku');
+define('APP_NAME', 'nigger-heroku');
 define('PASSKEY', getenv('PASSKEY'));
