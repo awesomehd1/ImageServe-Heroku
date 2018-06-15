@@ -12,11 +12,11 @@
 /* More information on all these values can be found on the wiki page. */
 /* https://github.com/aerouk/imageserve/wiki/Configuration */
 
-define('RAW_IMAGE', false);
+define('RAW_IMAGE', true);
 define('RAW_IMAGE_LINK', false);
 define('IMAGE_EXTENSION', true);
 
-define('TWITTER_CARDS', true);
+define('TWITTER_CARDS', false);
 
 // If you're using this, make sure to put a forward slash before.
 // E.g. "/imageserve" not "imageserve"
